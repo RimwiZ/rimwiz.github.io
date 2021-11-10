@@ -1,1 +1,6 @@
+title: Test page
+email: rimvydas.petkus@cambridge.org
+description: This is the test website for visual testing demo
+baseurl: "rimwiz"
+
 theme: jekyll-theme-architect
