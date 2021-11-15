@@ -3,4 +3,6 @@ email: rimvydas.petkus@cambridge.org
 description: This is the test website for visual testing demo
 baseurl: "rimwiz"
 
-theme: jekyll-theme-tactile
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
